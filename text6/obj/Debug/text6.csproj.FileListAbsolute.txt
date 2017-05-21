@@ -1,0 +1,18 @@
+E:\C#\text6\text6\bin\Debug\text6.exe.config
+E:\C#\text6\text6\bin\Debug\text6.exe
+E:\C#\text6\text6\bin\Debug\text6.pdb
+E:\C#\text6\text6\obj\Debug\text6.csprojResolveAssemblyReference.cache
+E:\C#\text6\text6\obj\Debug\text6.Form1.resources
+E:\C#\text6\text6\obj\Debug\text6.Properties.Resources.resources
+E:\C#\text6\text6\obj\Debug\text6.csproj.GenerateResource.Cache
+E:\C#\text6\text6\obj\Debug\text6.exe
+E:\C#\text6\text6\obj\Debug\text6.pdb
+F:\visual studio 2015\Projects\timerecorder\text6\bin\Debug\text6.exe.config
+F:\visual studio 2015\Projects\timerecorder\text6\obj\Debug\text6.exe
+F:\visual studio 2015\Projects\timerecorder\text6\obj\Debug\text6.pdb
+F:\visual studio 2015\Projects\timerecorder\text6\bin\Debug\text6.exe
+F:\visual studio 2015\Projects\timerecorder\text6\bin\Debug\text6.pdb
+F:\visual studio 2015\Projects\timerecorder\text6\obj\Debug\text6.csprojResolveAssemblyReference.cache
+F:\visual studio 2015\Projects\timerecorder\text6\obj\Debug\text6.Form1.resources
+F:\visual studio 2015\Projects\timerecorder\text6\obj\Debug\text6.Properties.Resources.resources
+F:\visual studio 2015\Projects\timerecorder\text6\obj\Debug\text6.csproj.GenerateResource.Cache
